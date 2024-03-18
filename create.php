@@ -21,6 +21,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     echo "<h1>New Entry Created!</h1>";
     echo "<p>Title: $title</p>";
     echo "<p>Content: $content</p>";
+    echo "<p>Roshan Akthar</p>";
+
 }
 ?>
 
